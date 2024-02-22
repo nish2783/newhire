@@ -1,5 +1,5 @@
 {
-  "statusCode": 200,
+  "success": true,
   "body": {
     "success": true,
     "query_id": "4ty3eg43",
