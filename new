@@ -5,10 +5,10 @@
     "query_id": "4ty3eg43",
     "newHire": [
     {
-      "email": "fred34@gmail.com"
-      "firstName": "Fred"
-      "middleName": "Sam"
-      "lastName": "Xavier"
+      "email": "fred34@gmail.com",
+      "firstName": "Fred",
+      "middleName": "Sam",
+      "lastName": "Xavier",
       "mobile": "555-555-5555"
     }
     ],
